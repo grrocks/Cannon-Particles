@@ -1,0 +1,7 @@
+name: CannonParticles
+main: me.determined.cannonpart.CannonParticles
+version: 1.0
+author: Determined
+commands:
+    cannonparts:
+        description: Use particles effects with cannons!
